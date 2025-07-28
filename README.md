@@ -3,7 +3,7 @@
 🎓 **Comoputer Software Engineering Graduate Student** @ Arizona State University (4.0 GPA)  
 💼 **Former Associate Software Engineer** @ GoTo Technologies (LogMeIn)     
 🚀 **Passionate about** scalable systems, cloud architecture, and intelligent automation     
-⚡ **Fun fact** I am average volley ball player who loves singing .
+⚡ **Fun fact** I am an average volley ball player who loves singing .
 
 ## 🔥 What I've Built
 - 🏗️ Architecting a Software Quality Metric Analyzer with Spring Boot & Vue.js [🔗](https://github.com/HiteshKolluru-asu/SER516-Spr25-JavaB-3)
